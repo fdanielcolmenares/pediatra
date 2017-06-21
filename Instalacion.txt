@@ -1,0 +1,9 @@
+1.- Insertar los roles
+2.- Crear el Doctor
+3.- Crear el usuario
+4.- Crear tipo consulta '1' y '0'
+5.- Cargar scripts
+6.- UPDATE consultas SET id = id-6
+7.- UPDATE consultas SET id = 1 where id < 0
+8.- UPDATE consultas SET tcta_id = 1
+9.- DELETE FROM tipo_consulta WHERE id=0
